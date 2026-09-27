@@ -1,0 +1,1208 @@
+============================================================
+🚨 NESCOE HACKATHON 2026 — 4ETHR
+MASTER BUILD PROMPT
+============================================================
+
+THIS IS A BRAND-NEW PROJECT.
+
+BUILD THE ENTIRE WEBSITE FROM SCRATCH.
+
+DO NOT ASSUME ANY EXISTING CODE, DESIGN, COMPONENTS,
+DATABASE, BACKEND, OR FILES.
+
+
+============================================================
+🏆 PROJECT INFORMATION
+============================================================
+
+HACKATHON:
+
+NESCOE HACKATHON 2026
+
+PROJECT TYPE:
+
+RESPONSIVE TEAM PORTFOLIO WEBSITE
+
+FINAL TEAM / WEBSITE NAME:
+
+4ETHR
+
+TEAM MEMBERS:
+
+1. Tanvi Tapase
+2. Sharanya Mestry
+3. Yash Kharat
+
+
+============================================================
+🚨 ATTACHED REFERENCE IMAGE — PRIMARY DESIGN BLUEPRINT
+============================================================
+
+I AM ATTACHING A REFERENCE IMAGE WITH THIS PROMPT.
+
+THIS IMAGE IS EXTREMELY IMPORTANT.
+
+USE THE ATTACHED IMAGE AS THE PRIMARY VISUAL REFERENCE
+FOR THE WEBSITE.
+
+I WANT THE FINAL 4ETHR WEBSITE TO LOOK AS CLOSE AS
+REASONABLY POSSIBLE TO THE ATTACHED REFERENCE IMAGE.
+
+DO NOT TREAT THE IMAGE AS A GENERAL INSPIRATION.
+
+DO NOT CREATE A COMPLETELY DIFFERENT DESIGN.
+
+DO NOT MAKE A GENERIC PORTFOLIO AND SIMPLY ADD BLUE
+COLORS TO IT.
+
+STUDY THE REFERENCE IMAGE FIRST.
+
+ANALYZE:
+
+- Overall composition
+- Layout
+- Spacing
+- Proportions
+- Typography hierarchy
+- Navigation
+- Hero composition
+- Cards
+- Section structure
+- Borders
+- Colors
+- Background
+- Geometric elements
+- Futuristic elements
+- Visual hierarchy
+- Image/text proportions
+- Technical details
+- Overall atmosphere
+
+THEN RECREATE THAT VISUAL LANGUAGE AS A REAL WEBSITE.
+
+IMPORTANT:
+
+DO NOT USE THE REFERENCE IMAGE AS THE WEBSITE BACKGROUND.
+
+DO NOT PLACE THE IMAGE AS A SCREENSHOT.
+
+DO NOT TURN THE IMAGE INTO A STATIC WEBSITE.
+
+REBUILD THE DESIGN USING REAL:
+
+HTML
+CSS
+JavaScript
+React
+
+The final result should feel like a real implementation
+of the attached reference design.
+
+
+============================================================
+🚨 ABSOLUTE TECHNOLOGY RULE
+============================================================
+
+THE WEBSITE MUST BE FRONTEND-ONLY.
+
+USE ONLY:
+
+HTML
+CSS
+JavaScript
+React
+
+React is allowed ONLY for frontend/UI.
+
+STRICTLY DO NOT CREATE OR USE:
+
+❌ Python
+❌ Node.js backend
+❌ Express
+❌ PHP
+❌ Java backend
+❌ Firebase
+❌ Database
+❌ Authentication
+❌ Server-side APIs
+❌ Backend services
+❌ Bootstrap
+❌ Tailwind CSS
+❌ Next.js
+❌ Backend frameworks
+❌ Downloaded website templates
+❌ Server-side functionality
+❌ External backend services
+
+DO NOT CREATE A BACKEND.
+
+DO NOT CREATE AN API.
+
+DO NOT CREATE A DATABASE.
+
+DO NOT CREATE AUTHENTICATION.
+
+DO NOT ADD FIREBASE.
+
+DO NOT ADD SERVER-SIDE FUNCTIONALITY.
+
+React is strictly for the frontend.
+
+The website must remain a frontend-only static experience.
+
+DO NOT CHANGE THE TECHNOLOGY STACK.
+
+The implementation must remain:
+
+HTML + CSS + JavaScript + React.
+
+
+============================================================
+🎯 PRIMARY OBJECTIVE
+============================================================
+
+DO NOT BUILD A NORMAL COLLEGE PORTFOLIO.
+
+BUILD A HIGH-END, HACKATHON-LEVEL TEAM PORTFOLIO.
+
+The website should immediately feel:
+
+- Premium
+- Futuristic
+- Original
+- Creative
+- Interactive
+- Professional
+- Fast
+- Responsive
+- Memorable
+- Carefully designed
+
+The website should make judges immediately understand:
+
+WHO WE ARE
+WHAT WE BUILD
+WHAT WE KNOW
+WHAT WE HAVE CREATED
+
+But the visual experience must be significantly more
+advanced than a normal student portfolio.
+
+
+============================================================
+📊 HACKATHON PRIORITIES
+============================================================
+
+Prioritize the areas that matter most:
+
+1. UI / DESIGN
+2. RESPONSIVENESS
+3. CONTENT STRUCTURE
+4. CREATIVITY
+5. PRESENTATION
+
+DO NOT waste development effort on backend features.
+
+There is no need for backend functionality.
+
+Spend the effort on:
+
+- Visual quality
+- Responsive design
+- Animation
+- Interaction
+- Storytelling
+- Typography
+- Spacing
+- Polish
+
+
+============================================================
+🧠 4ETHR BRAND CONCEPT
+============================================================
+
+TEAM NAME:
+
+4ETHR
+
+The visual identity should communicate:
+
+THREE PEOPLE
++
+THREE PERSPECTIVES
++
+ONE TEAM
+=
+4ETHR
+
+The website should visually represent:
+
+CONNECTION
+COLLABORATION
+CREATIVITY
+TECHNOLOGY
+UNITY
+MOVEMENT
+
+Do NOT make three unrelated profile cards.
+
+The relationship between Tanvi, Sharanya and Yash should
+become part of the visual system.
+
+IMPORTANT:
+
+Do NOT permanently display the phrase
+"THREE MINDS. ONE DIGITAL UNIVERSE."
+as a major tagline or logo line.
+
+The brand should primarily be:
+
+4ETHR
+
+Keep the identity clean and minimal.
+
+
+============================================================
+🎨 VISUAL STYLE — FOLLOW THE ATTACHED IMAGE
+============================================================
+
+The attached reference image is the visual authority.
+
+Recreate its visual language as closely as possible.
+
+Use a:
+
+- Futuristic
+- Premium
+- Technology-focused
+- Space-inspired
+- Minimal
+- Sophisticated
+
+visual style.
+
+Preferred visual characteristics:
+
+- Deep black
+- Near-black navy
+- Dark blue
+- White typography
+- Soft grey text
+- Electric blue
+- Cyan accents
+- Subtle blue glow
+- Thin technical lines
+- Geometric shapes
+- Orbital elements
+- Fine grid
+- Small particles
+- Premium borders
+- Large typography
+- Strong whitespace
+- Technical labels
+- Section numbering
+
+DO NOT make it:
+
+❌ Generic student portfolio
+❌ Generic SaaS landing page
+❌ Bootstrap website
+❌ Template website
+❌ Cyberpunk gaming website
+❌ Purple-heavy
+❌ Excessively neon
+❌ Excessive glassmorphism
+❌ Random gradients
+❌ Visually chaotic
+
+
+============================================================
+🧭 NAVIGATION
+============================================================
+
+Create a premium sticky navigation inspired by the
+attached reference.
+
+Brand:
+
+4ETHR
+
+Navigation:
+
+ABOUT
+TEAM
+PROJECTS
+SKILLS
+CONTACT
+
+Include a dark/light theme toggle.
+
+Navigation must have:
+
+- Sticky positioning
+- Clean typography
+- Thin borders
+- Smooth hover effects
+- Active section indicator
+- Smooth scrolling
+- Premium transitions
+
+On mobile:
+
+Create a polished animated mobile menu.
+
+Do NOT use an unstyled default hamburger menu.
+
+
+============================================================
+⏳ PREMIUM LOADING SCREEN
+============================================================
+
+CREATE A PROPER LOADING SCREEN.
+
+There is currently no loading experience because this is
+a brand-new project.
+
+Create a short futuristic loading sequence.
+
+Example visual direction:
+
+4ETHR
+
+INITIALIZING
+
+03 MEMBERS
+01 TEAM
+
+Then:
+
+A minimal progress indicator.
+
+Then smoothly transition into the hero.
+
+The loading animation must be:
+
+- Short
+- Smooth
+- Premium
+- Fast
+
+DO NOT artificially delay the website.
+
+The loading screen must not make the actual website slower.
+
+
+============================================================
+🚀 HERO SECTION
+============================================================
+
+THE HERO MUST BE THE STRONGEST SECTION.
+
+Match the attached reference image's visual composition
+and atmosphere as closely as possible.
+
+Display:
+
+4ETHR
+
+Tanvi Tapase × Sharanya Mestry × Yash Kharat
+
+Create a futuristic central team visual.
+
+Represent the three members as three connected nodes.
+
+The central system represents:
+
+4ETHR
+
+The three nodes represent:
+
+Tanvi
+Sharanya
+Yash
+
+Use a sophisticated visual system containing:
+
+- Orbital rings
+- Connecting lines
+- Glowing nodes
+- Central core
+- Small particles
+- Geometric shapes
+- Subtle movement
+- Blue/cyan glow
+
+DO NOT literally create a crude triangle diagram.
+
+Make it look professionally designed.
+
+The visual should communicate:
+
+3 MEMBERS → 1 TEAM
+
+Add a premium CTA:
+
+EXPLORE OUR WORK ↓
+
+Smoothly scroll to the next section.
+
+
+============================================================
+🖱️ HERO INTERACTIONS
+============================================================
+
+Make the hero feel alive.
+
+Mouse movement:
+
+- Subtle parallax
+- Node movement
+- Particle movement
+- Glow movement
+
+Hover over a member node:
+
+- Node becomes brighter
+- Connection highlights
+- Member name appears/emphasizes
+- Role appears
+- Node slightly enlarges
+
+Keep the animations lightweight.
+
+Use CSS transforms, opacity and efficient JavaScript.
+
+
+============================================================
+📋 REQUIRED HACKATHON SECTIONS
+============================================================
+
+THE WEBSITE MUST CONTAIN ALL SIX:
+
+01 — HERO
+02 — ABOUT
+03 — TEAM
+04 — PROJECTS
+05 — SKILLS
+06 — CONTACT
+
+DO NOT REMOVE ANY REQUIRED SECTION.
+
+Every section must be clearly accessible.
+
+
+============================================================
+01 — ABOUT
+============================================================
+
+Create:
+
+01 / ABOUT
+
+Heading:
+
+ABOUT 4ETHR
+
+Explain the team using authentic information.
+
+Focus on:
+
+- Technology
+- Creativity
+- Problem solving
+- Experimentation
+- Collaboration
+- Building digital experiences
+
+Do NOT invent:
+
+- Awards
+- Clients
+- Achievements
+- Statistics
+- Fake results
+
+Use editable content.
+
+Design the section with strong typography and visual
+composition.
+
+Do NOT create one huge boring paragraph.
+
+Include a futuristic visual element inspired by the
+reference image.
+
+
+============================================================
+02 — TEAM
+============================================================
+
+Create three premium team profiles.
+
+TANVI TAPASE
+SHARANYA MESTRY
+YASH KHARAT
+
+CRITICAL:
+
+ALL THREE TEAM CARDS MUST BE EXACTLY THE SAME:
+
+- Width
+- Height
+- Internal spacing
+- Image/avatar area
+- Border proportions
+- Baseline
+- Overall visual dimensions
+
+DO NOT STAGGER THEM.
+
+DESKTOP:
+
+[TANVI]    [SHARANYA]    [YASH]
+
+Perfectly aligned.
+
+MOBILE:
+
+[TANVI]
+
+[SHARANYA]
+
+[YASH]
+
+All cards remain equal size.
+
+Each card supports:
+
+- Member number
+- Name
+- Role
+- Short bio
+- Skills
+- Photo/avatar
+- Interactive state
+
+DO NOT invent personal information.
+
+Use editable placeholders until actual information
+is provided.
+
+
+============================================================
+👥 TEAM INTERACTIONS
+============================================================
+
+Hovering a member card should:
+
+- Slightly lift the card
+- Animate border
+- Add subtle glow
+- Activate the corresponding node
+- Highlight its connection
+- Reveal additional information
+
+On mobile:
+
+Use tap interaction.
+
+Do not rely only on hover.
+
+
+============================================================
+03 — PROJECTS
+============================================================
+
+THIS IS A MAJOR SECTION.
+
+The hackathon requires AT LEAST TWO PROJECTS.
+
+Create:
+
+03 / PROJECTS
+
+Use large premium case-study layouts.
+
+DO NOT use tiny generic cards.
+
+Each project supports:
+
+- Project number
+- Project name
+- Description
+- Technologies
+- Image
+- GitHub link
+- Live website link
+
+Use editable project data.
+
+DO NOT invent:
+
+❌ Projects
+❌ Clients
+❌ Results
+❌ Statistics
+❌ Awards
+
+Use placeholders until real project information
+is provided.
+
+
+============================================================
+💼 PROJECT INTERACTION
+============================================================
+
+Each project should visually feel like a case study.
+
+Use:
+
+PROJECT 01
+
+PROJECT NAME
+
+Description
+
+TECHNOLOGIES
+
+[ LARGE VISUAL ]
+
+VIEW PROJECT →
+
+On hover:
+
+- Image subtly moves
+- Border reacts
+- Arrow moves
+- Number animates
+- Metadata becomes prominent
+- Subtle background response
+
+Keep everything smooth and premium.
+
+
+============================================================
+04 — SKILLS
+============================================================
+
+Create:
+
+04 / SKILLS
+
+Create a futuristic technology section.
+
+Use clean technology cards/tags.
+
+Only include real team skills.
+
+Possible editable entries:
+
+HTML
+CSS
+JavaScript
+React
+Git
+GitHub
+
+Do NOT invent skills.
+
+Do NOT use fake proficiency percentages.
+
+Do NOT display things such as:
+
+React 95%
+JavaScript 98%
+
+Instead use clean visual technology identities.
+
+
+============================================================
+05 — CONTACT
+============================================================
+
+Create:
+
+05 / CONTACT
+
+Final CTA:
+
+LET'S BUILD
+SOMETHING.
+
+Include:
+
+Name
+Email
+Message
+
+Also include editable:
+
+Email
+GitHub
+LinkedIn
+Instagram
+
+The form must be frontend-only.
+
+No API.
+
+No backend.
+
+No server submission.
+
+On submit:
+
+Display a polished frontend success state.
+
+Example:
+
+MESSAGE READY ✓
+
+
+============================================================
+🌗 DARK / LIGHT MODE
+============================================================
+
+Implement:
+
+DARK MODE
+LIGHT MODE
+
+Dark mode should be the primary visual experience.
+
+Dark:
+
+- Near-black background
+- Navy
+- White text
+- Cyan/electric blue
+- Subtle glow
+- Technical lines
+
+Light:
+
+- Warm off-white
+- Dark text
+- Subtle borders
+- Controlled blue accent
+
+DO NOT simply invert colors.
+
+Both themes must be intentionally designed.
+
+Persist theme using localStorage.
+
+
+============================================================
+✨ ANIMATION SYSTEM
+============================================================
+
+The website MUST NOT feel static.
+
+Implement:
+
+- Loading animation
+- Hero entrance animation
+- Text reveal
+- Scroll reveal
+- Team hover animation
+- Project hover animation
+- Button micro-interactions
+- Navigation transitions
+- Theme transitions
+- Subtle parallax
+- Scroll progress
+- Animated technical lines
+- Node interactions
+- Section transitions
+
+Animation style must match the attached reference.
+
+DO NOT introduce random animation styles.
+
+Do NOT make everything bounce or fly around.
+
+Animations should be:
+
+SMOOTH
+FAST
+SUBTLE
+PREMIUM
+PURPOSEFUL
+
+Respect:
+
+prefers-reduced-motion
+
+
+============================================================
+🌠 FUTURISTIC BACKGROUND
+============================================================
+
+Create a reusable background system inspired by
+the attached reference.
+
+Use only frontend technologies.
+
+Possible elements:
+
+- Fine grid
+- Tiny particles
+- Stars
+- Orbital lines
+- Connection lines
+- Geometric outlines
+- Technical coordinates
+- Subtle animated dots
+- Blue/cyan glow
+
+DO NOT use:
+
+❌ Video backgrounds
+❌ Heavy particle libraries
+❌ Huge animation libraries
+❌ External animation services
+
+Keep everything lightweight.
+
+
+============================================================
+📱 RESPONSIVE DESIGN
+============================================================
+
+RESPONSIVENESS IS CRITICAL.
+
+The website must be intentionally designed for:
+
+1440px
+1280px
+1024px
+768px
+430px
+390px
+360px
+
+DESKTOP:
+
+Closely follow the attached reference composition.
+
+TABLET:
+
+Reflow intelligently.
+
+MOBILE:
+
+Do NOT simply shrink desktop.
+
+Create a proper mobile composition using the same
+visual language.
+
+Check:
+
+- No horizontal scrolling
+- No clipped text
+- No overlapping
+- No broken images
+- No broken navigation
+- Team cards stack correctly
+- Projects remain readable
+- Hero remains impressive
+- Buttons remain touch-friendly
+- Typography scales correctly
+
+
+============================================================
+⚡ PERFORMANCE
+============================================================
+
+Futuristic does NOT mean slow.
+
+Make the website extremely fast.
+
+Use:
+
+- Lightweight CSS
+- Efficient React components
+- CSS transforms
+- CSS opacity
+- IntersectionObserver
+- Lazy loading
+- Optimized assets
+
+Avoid:
+
+- Huge videos
+- Huge images
+- Expensive animation loops
+- Unnecessary dependencies
+- Heavy libraries
+
+The loading screen must not actually slow the website.
+
+
+============================================================
+♿ ACCESSIBILITY
+============================================================
+
+Use:
+
+- Semantic HTML
+- Alt text
+- Keyboard navigation
+- Visible focus states
+- Good contrast
+- Accessible buttons
+- ARIA labels where necessary
+- prefers-reduced-motion
+
+
+============================================================
+🧱 REACT CODE ARCHITECTURE
+============================================================
+
+Build using reusable React components.
+
+Organize the code cleanly.
+
+Suggested structure:
+
+components/
+styles/
+data/
+assets/
+
+Create reusable components such as:
+
+Navbar
+LoadingScreen
+Hero
+About
+Team
+TeamCard
+Projects
+ProjectCard
+Skills
+Contact
+ThemeToggle
+BackgroundEffects
+
+Keep team information inside an editable data structure.
+
+Keep project information inside an editable data structure.
+
+Do not duplicate content unnecessarily.
+
+
+============================================================
+🎨 4ETHR BRANDING
+============================================================
+
+The main brand is:
+
+4ETHR
+
+Create a clean geometric wordmark.
+
+Use the same branding consistently in:
+
+- Navbar
+- Loading screen
+- Hero
+- Mobile navigation
+- Footer
+
+Do NOT put a large logo everywhere.
+
+Keep it minimal and premium.
+
+IMPORTANT:
+
+Do NOT use the removed tagline as a permanent logo line.
+
+The brand should primarily read:
+
+4ETHR
+
+
+============================================================
+🚫 NON-NEGOTIABLE RESTRICTIONS
+============================================================
+
+DO NOT:
+
+❌ Add backend
+❌ Add Node.js backend
+❌ Add Python
+❌ Add Firebase
+❌ Add database
+❌ Add authentication
+❌ Add API
+❌ Add server-side functionality
+❌ Add Bootstrap
+❌ Add Tailwind
+❌ Add Next.js
+❌ Use downloaded templates
+❌ Copy a portfolio template
+❌ Invent achievements
+❌ Invent clients
+❌ Invent project results
+❌ Invent statistics
+❌ Invent skills
+
+ONLY:
+
+HTML
+CSS
+JavaScript
+React
+
+
+============================================================
+🔍 FINAL REFERENCE IMAGE CHECK
+============================================================
+
+BEFORE FINISHING:
+
+COMPARE THE ACTUAL WEBSITE TO THE ATTACHED REFERENCE IMAGE.
+
+Check:
+
+✓ Overall composition
+✓ Navigation
+✓ Hero
+✓ Typography
+✓ Spacing
+✓ Proportions
+✓ Colors
+✓ Borders
+✓ Background
+✓ Technical details
+✓ Team layout
+✓ Project layout
+✓ Futuristic atmosphere
+✓ Visual hierarchy
+✓ Animation style
+
+If the website looks like a generic portfolio:
+
+KEEP REFINING IT.
+
+If the website does not visually resemble the reference:
+
+KEEP REFINING IT.
+
+If the website feels too static:
+
+ADD PURPOSEFUL INTERACTIONS.
+
+If the website feels too neon:
+
+REDUCE THE EFFECTS.
+
+If the team cards are different sizes:
+
+FIX THEM.
+
+If the mobile layout looks like a compressed desktop:
+
+REDESIGN THE MOBILE LAYOUT.
+
+
+============================================================
+🏆 FINAL QUALITY CONTROL
+============================================================
+
+Before declaring the project complete:
+
+✓ 4ETHR branding correct
+✓ Tanvi Tapase present
+✓ Sharanya Mestry present
+✓ Yash Kharat present
+✓ Hero complete
+✓ About complete
+✓ Team complete
+✓ Projects complete
+✓ Skills complete
+✓ Contact complete
+✓ At least 2 project slots
+✓ Team cards equal size
+✓ Loading screen works
+✓ Dark mode works
+✓ Light mode works
+✓ Animations work
+✓ Hover interactions work
+✓ Mobile interactions work
+✓ Navigation works
+✓ Smooth scrolling works
+✓ Responsive at all required sizes
+✓ No horizontal overflow
+✓ No clipped content
+✓ No overlapping elements
+✓ No broken images
+✓ No console errors
+✓ Fast loading
+✓ Accessible
+✓ Frontend only
+✓ No backend
+✓ No database
+✓ No Firebase
+✓ No API
+✓ No Bootstrap
+✓ No Tailwind
+✓ No template
+
+
+============================================================
+🔥 FINAL INSTRUCTION
+============================================================
+
+BUILD 4ETHR FROM SCRATCH.
+
+USE THE ATTACHED REFERENCE IMAGE AS THE PRIMARY
+VISUAL BLUEPRINT.
+
+I WANT THE FINAL WEBSITE TO LOOK AS CLOSE TO THE
+ATTACHED REFERENCE DESIGN AS POSSIBLE WHILE REMAINING
+A REAL RESPONSIVE WEBSITE.
+
+DO NOT MAKE YOUR OWN RANDOM DESIGN.
+
+DO NOT SIMPLIFY THE REFERENCE.
+
+DO NOT CREATE A GENERIC PORTFOLIO.
+
+RECREATE THE DESIGN LANGUAGE, COMPOSITION,
+VISUAL HIERARCHY, COLORS, SPACING, TYPOGRAPHY,
+FUTURISTIC ELEMENTS AND INTERACTION STYLE
+USING REAL FRONTEND CODE.
+
+THE FINAL WEBSITE MUST BE:
+
+PREMIUM
+FUTURISTIC
+ORIGINAL
+INTERACTIVE
+RESPONSIVE
+FAST
+CLEAN
+
+AND MOST IMPORTANTLY:
+
+IT MUST LOOK LIKE A SERIOUS HACKATHON SUBMISSION.
+
+TECHNOLOGY LOCK:
+
+HTML + CSS + JAVASCRIPT + REACT ONLY.
+
+NO BACKEND.
+NO PYTHON.
+NO NODE BACKEND.
+NO FIREBASE.
+NO DATABASE.
+NO API.
+NO BOOTSTRAP.
+NO TAILWIND.
+NO TEMPLATE.
+
+BUILD 4ETHR NOW.
+============================================================

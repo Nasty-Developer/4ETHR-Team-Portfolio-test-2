@@ -1,0 +1,117 @@
+IMPORTANT — DO NOT STOP THE CURRENT BUILD.
+
+Continue the project from its current state and finish the website.
+
+I noticed the current project is using TypeScript/TSX.
+
+I need the FINAL WEBSITE to use ONLY:
+
+HTML
+CSS
+JavaScript
+React
+
+STRICTLY NO TYPESCRIPT.
+
+However, DO NOT stop the current job, restart the project from scratch, or break the existing Preview.
+
+IMPORTANT:
+The current Preview is working/being built. PRESERVE IT.
+
+Do NOT:
+
+- Delete the working project
+- Delete existing components
+- Break the current Preview
+- Change the visual design unnecessarily
+- Remove animations
+- Remove sections
+- Remove existing functionality
+- Rebuild everything from zero
+- Introduce a backend
+
+Instead:
+
+1. CONTINUE the current build.
+2. Keep the existing website design and functionality.
+3. Convert TypeScript/TSX code to plain JavaScript/JSX where necessary.
+4. Keep CSS as CSS.
+5. Keep React as the frontend framework.
+6. Make sure the Preview continues working after every change.
+7. Fix any conversion errors immediately.
+8. Verify there are no build errors.
+9. Verify there are no console errors.
+10. Verify the Preview loads correctly.
+
+FINAL TECHNOLOGY STACK MUST BE:
+
+HTML
+CSS
+JavaScript
+React
+
+ALLOWED FILE TYPES:
+
+.html
+.css
+.js
+.jsx
+
+DO NOT USE:
+
+.ts
+.tsx
+TypeScript
+Python
+Node.js backend
+Express
+Firebase
+Database
+Authentication
+Server-side API
+Bootstrap
+Tailwind
+Next.js
+
+IMPORTANT:
+
+React is allowed and should remain.
+
+Do NOT remove React just to satisfy the requirement.
+
+Do NOT stop the current build.
+
+DO NOT sacrifice the existing design or Preview.
+
+The priority is:
+
+CURRENT WEBSITE + CURRENT DESIGN
+        ↓
+CONVERT TO
+        ↓
+HTML + CSS + JAVASCRIPT + REACT
+        ↓
+VERIFY BUILD
+        ↓
+VERIFY PREVIEW
+        ↓
+CONTINUE BUILDING
+
+After the conversion, continue implementing and polishing the
+4ETHR website normally.
+
+Before finishing, confirm internally that:
+
+✓ Preview works
+✓ Website loads
+✓ No build errors
+✓ No console errors
+✓ No TypeScript files remain
+✓ React still works
+✓ HTML/CSS/JavaScript are used
+✓ No backend was added
+✓ Existing design was preserved
+✓ Existing animations were preserved
+✓ Existing sections were preserved
+
+DO NOT STOP. CONTINUE THE CURRENT PROJECT AND KEEP THE PREVIEW WORKING.
