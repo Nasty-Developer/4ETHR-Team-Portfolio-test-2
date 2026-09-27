@@ -1,0 +1,334 @@
+URGENT — REMOVE THE GRID AND POLISH THE FUTURISTIC DESIGN
+
+The current 4ETHR website is much closer to the direction I want.
+
+IMPORTANT:
+DO NOT RESTART THE PROJECT.
+DO NOT DELETE THE CURRENT DESIGN.
+DO NOT BREAK THE PREVIEW.
+
+Keep the current hero composition, typography, 4ETHR branding, orbital system, nodes, animations and overall futuristic direction.
+
+I specifically want to fix the BACKGROUND DESIGN.
+
+==================================================
+🚨 REMOVE THE VISIBLE GRID
+==================================================
+
+I DO NOT LIKE THE CURRENT SQUARE GRID BACKGROUND.
+
+The repeated square grid makes the website look like:
+
+- A technical dashboard
+- A generic sci-fi UI
+- A developer template
+- A cyberpunk interface
+
+I want the website to feel:
+
+PREMIUM
+FUTURISTIC
+CINEMATIC
+MINIMAL
+CREATIVE
+HIGH-END
+
+Therefore:
+
+REMOVE THE PROMINENT SQUARE GRID FROM THE BACKGROUND.
+
+Do NOT replace it with another obvious grid.
+
+Do NOT use large repeated squares.
+
+Do NOT use a graph-paper effect.
+
+Do NOT use a dashboard-style background.
+
+==================================================
+🌌 NEW BACKGROUND DIRECTION
+==================================================
+
+Replace the visible grid with a much more sophisticated
+cinematic background.
+
+Use a very subtle:
+
+- Deep black/navy gradient
+- Soft radial blue glow
+- Very subtle atmospheric light
+- Tiny sparse particles
+- Soft noise/grain texture
+- Subtle blurred light
+- Faint orbital curves
+- Very subtle geometric outlines
+
+The background should be mostly dark and clean.
+
+The futuristic elements should appear to FLOAT inside
+the space rather than sitting on top of a visible grid.
+
+Think:
+
+PREMIUM FUTURISTIC TECHNOLOGY STUDIO
+
+NOT:
+
+SCI-FI DASHBOARD.
+
+
+==================================================
+✨ HERO — KEEP THE CURRENT GOOD PARTS
+==================================================
+
+The current Hero composition is good.
+
+KEEP:
+
+- Large WE / 4ETHR typography
+- Large 4ETHR logo/wordmark
+- Central orbital system
+- Three connected nodes
+- Cyan/electric-blue accent
+- Geometric central diamond
+- Technical labels
+- Dark atmosphere
+- Hero proportions
+- CTA
+- Navigation
+
+DO NOT REMOVE THESE.
+
+Instead, make them feel more cinematic by removing the
+obvious grid behind them.
+
+
+==================================================
+🌌 MAKE THE ORBITAL SYSTEM THE MAIN VISUAL LANGUAGE
+==================================================
+
+The orbital graphic should become the main futuristic
+visual system.
+
+Use:
+
+- Large orbital rings
+- Subtle glowing arcs
+- Three nodes
+- Central 4ETHR core
+- Fine connection lines
+- Small floating particles
+- Very subtle light trails
+
+The orbital elements should feel like they are floating
+in deep space.
+
+Do NOT add too many elements.
+
+Keep it elegant.
+
+
+==================================================
+🎨 BACKGROUND HIERARCHY
+==================================================
+
+The visual hierarchy should be:
+
+1. 4ETHR
+2. Orbital team system
+3. Supporting text
+4. CTA
+5. Subtle atmospheric background
+
+The background must NEVER compete with the main content.
+
+If I look at the page from a distance, I should immediately
+see:
+
+4ETHR + the orbital team system.
+
+Not the background pattern.
+
+
+==================================================
+✨ ADD SUBTLE DEPTH
+==================================================
+
+Instead of the grid, create depth using:
+
+- Radial gradients
+- Soft blue atmospheric glow
+- Very subtle blurred circles
+- Tiny particles
+- Depth-based opacity
+- Faint curved orbital paths
+- Soft vignette
+
+Use CSS where possible.
+
+Keep it lightweight.
+
+Do NOT use a heavy animation library.
+
+
+==================================================
+🖱️ INTERACTION
+==================================================
+
+Keep the existing interactive feeling.
+
+Mouse movement can subtly affect:
+
+- Orbital system
+- Particles
+- Glow
+- Nodes
+
+The effect should be extremely subtle.
+
+Do not make the entire page move dramatically.
+
+
+==================================================
+🎬 CINEMATIC FEEL
+==================================================
+
+The overall page should feel closer to:
+
+A futuristic technology film title sequence
+
+rather than:
+
+A futuristic admin dashboard.
+
+Use:
+
+- Huge typography
+- Strong negative space
+- Deep dark background
+- Controlled cyan lighting
+- Elegant motion
+- Minimal technical details
+
+Do NOT add excessive neon.
+
+
+==================================================
+📱 RESPONSIVENESS
+==================================================
+
+Do not break the existing responsive layout.
+
+Keep:
+
+Desktop
+Tablet
+Mobile
+
+working correctly.
+
+The background effects should also scale down on mobile
+for performance.
+
+
+==================================================
+⚡ PERFORMANCE
+==================================================
+
+Keep the new background lightweight.
+
+Prefer:
+
+CSS gradients
+CSS blur
+CSS pseudo-elements
+CSS transforms
+Small lightweight particles
+
+Avoid:
+
+Huge images
+Video backgrounds
+Heavy canvas effects
+Heavy animation libraries
+
+
+==================================================
+🚫 DO NOT CHANGE
+==================================================
+
+Do NOT remove:
+
+- 4ETHR branding
+- Hero
+- About
+- Team
+- Projects
+- Skills
+- Contact
+- Navigation
+- Dark/light mode
+- Existing animations
+- Orbital hero
+- Team nodes
+- Current typography direction
+
+ONLY improve the background and overall visual polish.
+
+==================================================
+🏆 FINAL VISUAL TARGET
+==================================================
+
+The final Hero should feel like:
+
+       4ETHR
+
+   WE
+   4ETHR
+
+        ◇
+     ○  ●  ○
+        ○
+
+floating inside a deep cinematic digital space.
+
+There should be NO obvious square grid.
+
+The background should feel:
+
+DARK
+DEEP
+CLEAN
+PREMIUM
+CINEMATIC
+FUTURISTIC
+
+not:
+
+GRIDDED
+BUSY
+DASHBOARD-LIKE
+GENERIC
+
+After making the changes, open the Preview and visually inspect
+the Hero at desktop size.
+
+If the grid is still visually obvious, remove it further.
+
+DO NOT STOP until the square-grid appearance is completely gone.
+
+Keep the current good Hero composition and upgrade it into a
+premium futuristic visual experience.
+
+TECHNOLOGY REMAINS STRICTLY:
+
+HTML + CSS + JAVASCRIPT + REACT ONLY.
+
+NO TYPESCRIPT.
+NO BACKEND.
+NO PYTHON.
+NO FIREBASE.
+NO DATABASE.
+NO API.
+NO BOOTSTRAP.
+NO TAILWIND.

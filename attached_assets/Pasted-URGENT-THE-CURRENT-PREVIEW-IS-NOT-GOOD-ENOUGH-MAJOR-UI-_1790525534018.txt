@@ -1,0 +1,536 @@
+URGENT — THE CURRENT PREVIEW IS NOT GOOD ENOUGH. MAJOR UI/UX REBUILD REQUIRED.
+
+DO NOT STOP THE PROJECT.
+DO NOT DELETE THE PROJECT.
+DO NOT START A NEW PROJECT.
+DO NOT BREAK THE CURRENT PREVIEW.
+
+Keep the current project and technology stack, but significantly improve the actual website design.
+
+The current preview looks too basic, too static, and too much like a normal student portfolio.
+
+THIS IS A HACKATHON SUBMISSION.
+
+I NEED A MUCH MORE PREMIUM, FUTURISTIC, CREATIVE AND POLISHED WEBSITE.
+
+==================================================
+STRICT TECHNOLOGY
+==================================================
+
+USE ONLY:
+
+HTML
+CSS
+JavaScript
+React
+
+NO TypeScript.
+
+Use:
+
+.js
+.jsx
+.css
+.html
+
+Do NOT introduce:
+
+Python
+Node.js backend
+Firebase
+Database
+Authentication
+Server APIs
+Bootstrap
+Tailwind
+Next.js
+Backend
+Downloaded templates
+
+React is allowed ONLY for frontend UI.
+
+==================================================
+IMPORTANT — PRESERVE PREVIEW
+==================================================
+
+The existing Preview must continue working.
+
+Before changing major files:
+
+- Understand the existing project structure
+- Preserve the working build
+- Make changes incrementally
+- Check the Preview after changes
+- Fix build errors immediately
+
+DO NOT leave the project with a broken Preview.
+
+==================================================
+DESIGN REBUILD
+==================================================
+
+The current visual design is NOT acceptable.
+
+Do not just change the colors.
+
+Rework the visual hierarchy, composition, spacing, typography,
+hero, cards, backgrounds, animations and interactions.
+
+The website should feel like a:
+
+PREMIUM FUTURISTIC CREATIVE TECHNOLOGY STUDIO
+
+NOT:
+
+- College assignment
+- Basic portfolio
+- Generic SaaS template
+- Simple card website
+- Bootstrap website
+- Static webpage
+
+==================================================
+4ETHR BRAND
+==================================================
+
+Brand:
+
+4ETHR
+
+Team:
+
+Tanvi Tapase
+Sharanya Mestry
+Yash Kharat
+
+Create a strong visual identity around the concept of:
+
+THREE PEOPLE → ONE TEAM
+
+Do NOT make the tagline the main visual element.
+
+4ETHR itself must become the brand.
+
+==================================================
+HERO — REBUILD THIS COMPLETELY
+==================================================
+
+The Hero must become the strongest part of the website.
+
+Do NOT use a boring text-only hero.
+
+Create a cinematic futuristic hero.
+
+Large:
+
+4ETHR
+
+Then a strong supporting statement.
+
+Place the three members around a central visual system.
+
+Create:
+
+- Three glowing nodes
+- Central 4ETHR core
+- Connecting lines
+- Orbital rings
+- Small particles
+- Subtle grid
+- Blue/cyan glow
+- Depth
+- Layered elements
+
+The three members should visually connect to the central 4ETHR identity.
+
+The visual should feel alive.
+
+Mouse movement should create subtle parallax.
+
+Nodes should react to hover.
+
+Connections should animate.
+
+==================================================
+LOADING SCREEN
+==================================================
+
+There is currently no impressive loading experience.
+
+Create a short premium loading screen.
+
+Display:
+
+4ETHR
+
+INITIALIZING
+
+03 MEMBERS
+01 TEAM
+
+Use a clean progress animation.
+
+Then transition smoothly into the Hero.
+
+Keep it SHORT.
+
+Do not artificially slow the website.
+
+==================================================
+NAVIGATION
+==================================================
+
+Create a premium futuristic navigation.
+
+4ETHR
+
+ABOUT
+TEAM
+PROJECTS
+SKILLS
+CONTACT
+
+Make it:
+
+- Minimal
+- Sticky
+- Transparent/dark
+- Thin bordered
+- Animated
+- Responsive
+
+Active section should have a visible animated indicator.
+
+Mobile navigation should be polished.
+
+==================================================
+TEAM — FIX THE CARDS
+==================================================
+
+The three team cards MUST be exactly equal.
+
+Desktop:
+
+[TANVI] [SHARANYA] [YASH]
+
+Same:
+
+- Width
+- Height
+- Padding
+- Image area
+- Border
+- Typography spacing
+- Baseline
+
+NO staggered cards.
+
+NO uneven heights.
+
+Make them visually premium.
+
+Use:
+
+01
+TANVI TAPASE
+
+02
+SHARANYA MESTRY
+
+03
+YASH KHARAT
+
+Each card should have:
+
+- Role
+- Short bio
+- Skills
+- Avatar/photo area
+- Interactive hover state
+
+Hover:
+
+- Card lifts
+- Border glows
+- Background reacts
+- Member node activates
+- Additional details reveal
+
+==================================================
+PROJECTS — MAKE THIS LOOK PROFESSIONAL
+==================================================
+
+Do NOT use tiny boring cards.
+
+Projects should look like premium case studies.
+
+Example:
+
+01
+
+PROJECT NAME
+
+Description
+
+TECHNOLOGIES
+
+[ LARGE VISUAL ]
+
+VIEW PROJECT →
+
+Use large project panels.
+
+On hover:
+
+- Image movement
+- Border animation
+- Arrow movement
+- Metadata animation
+- Subtle glow
+
+At least two project slots must exist.
+
+Do NOT invent fake achievements or results.
+
+==================================================
+ABOUT
+==================================================
+
+Make About visually interesting.
+
+Use:
+
+01 / ABOUT
+
+Large typography.
+
+Short strong paragraphs.
+
+Technical visual elements.
+
+Grid/lines/geometric elements.
+
+Do NOT create a huge block of text.
+
+==================================================
+SKILLS
+==================================================
+
+Do NOT make Skills a boring list.
+
+Create a visual technology system.
+
+For example:
+
+HTML
+CSS
+JavaScript
+React
+Git
+GitHub
+
+Use futuristic interactive technology cards.
+
+No fake percentages.
+
+==================================================
+CONTACT
+==================================================
+
+Create a strong final section.
+
+LET'S BUILD
+SOMETHING.
+
+Use:
+
+Name
+Email
+Message
+
+Frontend-only form.
+
+Show a polished frontend success animation.
+
+No backend.
+
+==================================================
+BACKGROUND
+==================================================
+
+The current background needs much more depth.
+
+Create a subtle futuristic background using CSS/JavaScript.
+
+Use:
+
+- Fine grid
+- Particles
+- Technical lines
+- Orbital lines
+- Small glowing points
+- Geometric outlines
+- Subtle animated elements
+
+Do NOT make it noisy.
+
+Do NOT turn it into cheap cyberpunk.
+
+Premium, restrained futuristic design.
+
+==================================================
+ANIMATIONS
+==================================================
+
+The current site feels too static.
+
+Add purposeful animations:
+
+- Loading screen
+- Hero entrance
+- Text reveal
+- Scroll reveal
+- Team hover
+- Project hover
+- Button micro-interactions
+- Navigation indicator
+- Theme transition
+- Subtle parallax
+- Scroll progress
+- Animated technical lines
+- Interactive nodes
+
+Animations should feel smooth and expensive.
+
+NOT excessive.
+
+NOT childish.
+
+==================================================
+DARK MODE
+==================================================
+
+Dark mode should be the PRIMARY visual experience.
+
+Use:
+
+Near-black
+Deep navy
+White
+Cool grey
+Electric blue
+Cyan
+
+No excessive purple.
+
+No random colors.
+
+Light mode should remain available and intentionally designed.
+
+==================================================
+RESPONSIVE
+==================================================
+
+Desktop:
+
+1440
+1280
+1024
+
+Tablet:
+
+768
+
+Mobile:
+
+430
+390
+360
+
+Do not simply shrink desktop.
+
+Design mobile intentionally.
+
+No:
+
+- Horizontal overflow
+- Clipping
+- Overlap
+- Broken navigation
+- Broken cards
+
+==================================================
+REFERENCE IMAGE
+==================================================
+
+The attached reference image is the PRIMARY visual direction.
+
+Use it to guide:
+
+- Composition
+- Spacing
+- Typography
+- Colors
+- Futuristic atmosphere
+- Borders
+- Hero structure
+- Project presentation
+- Technical visual language
+
+Do NOT copy the image as a screenshot.
+
+Recreate the design as actual HTML/CSS/React.
+
+==================================================
+FINAL STANDARD
+==================================================
+
+Before stopping, open and inspect the Preview.
+
+If it still looks like a basic student portfolio:
+
+DO NOT STOP.
+
+Continue improving it.
+
+The final result must feel like:
+
+4ETHR
+A REAL FUTURISTIC CREATIVE TECHNOLOGY TEAM.
+
+The first impression should be:
+
+"These students actually designed this."
+
+NOT:
+
+"This is a generated template."
+
+==================================================
+FINAL CHECK
+==================================================
+
+✓ Preview works
+✓ No build errors
+✓ No console errors
+✓ HTML
+✓ CSS
+✓ JavaScript
+✓ React
+✓ No TypeScript
+✓ No backend
+✓ Hero impressive
+✓ Loading screen
+✓ Futuristic background
+✓ Animations
+✓ Equal team cards
+✓ Projects visually strong
+✓ Skills interactive
+✓ Contact polished
+✓ Dark/light mode
+✓ Responsive
+✓ Mobile polished
+✓ Reference visual language followed
+
+DO NOT STOP UNTIL THE PREVIEW LOOKS PREMIUM, FUTURISTIC,
+INTERACTIVE AND HACKATHON-READY.

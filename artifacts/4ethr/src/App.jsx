@@ -1,11 +1,5 @@
 import { useEffect, useRef, useState } from 'react';
-import { QueryClient, QueryClientProvider } from '@tanstack/react-query';
 import { ArrowRight, Check, Github, Instagram, Linkedin, Mail, Menu, Moon, Sun, X } from 'lucide-react';
-import { ErrorBoundary } from '@/components/error-boundary';
-import { Toaster } from '@/components/ui/toaster';
-import { TooltipProvider } from '@/components/ui/tooltip';
-
-const queryClient = new QueryClient();
 
 const navigation = [
   { id: 'home', label: 'Home' },
@@ -23,6 +17,8 @@ const team = [
     role: '[EDITABLE ROLE]',
     bio: '[Editable member introduction — add a concise point of view here.]',
     tags: ['[SKILL]', '[SKILL]', '[SKILL]'],
+    orbitRole: 'IDEAS / DESIGN / CREATE',
+    avatar: 'tanvi',
   },
   {
     index: '02',
@@ -30,6 +26,8 @@ const team = [
     role: '[EDITABLE ROLE]',
     bio: '[Editable member introduction — add a concise point of view here.]',
     tags: ['[SKILL]', '[SKILL]', '[SKILL]'],
+    orbitRole: 'DEVELOP / INNOVATE / SOLVE',
+    avatar: 'sharanya',
   },
   {
     index: '03',
@@ -37,6 +35,8 @@ const team = [
     role: '[EDITABLE ROLE]',
     bio: '[Editable member introduction — add a concise point of view here.]',
     tags: ['[SKILL]', '[SKILL]', '[SKILL]'],
+    orbitRole: 'BUILD / OPTIMIZE / GROW',
+    avatar: 'yash',
   },
 ];
 
@@ -68,7 +68,7 @@ function Loader() {
   const [done, setDone] = useState(false);
 
   useEffect(() => {
-    const timer = window.setTimeout(() => setDone(true), 1250);
+    const timer = window.setTimeout(() => setDone(true), 280);
     return () => window.clearTimeout(timer);
   }, []);
 
@@ -83,7 +83,7 @@ function Loader() {
   );
 }
 
-function SiteNav({ theme, onThemeToggle }: { theme: 'dark' | 'light'; onThemeToggle: () => void }) {
+function SiteNav({ theme, onThemeToggle }) {
   const [mobileOpen, setMobileOpen] = useState(false);
   const [active, setActive] = useState('home');
 
@@ -109,12 +109,7 @@ function SiteNav({ theme, onThemeToggle }: { theme: 'dark' | 'light'; onThemeTog
         </a>
         <nav className="nav-links" aria-label="Primary navigation">
           {navigation.map((item) => (
-            <a
-              className={`nav-link ${active === item.id ? 'active' : ''}`}
-              href={`#${item.id}`}
-              key={item.id}
-              data-testid={`link-nav-${item.id}`}
-            >
+            <a className={`nav-link ${active === item.id ? 'active' : ''}`} href={`#${item.id}`} key={item.id} data-testid={`link-nav-${item.id}`}>
               {item.label}
             </a>
           ))}
@@ -138,9 +133,9 @@ function SiteNav({ theme, onThemeToggle }: { theme: 'dark' | 'light'; onThemeTog
 }
 
 function OrbitVisual() {
-  const stageRef = useRef<HTMLDivElement>(null);
+  const stageRef = useRef(null);
 
-  const handlePointerMove = (event: React.PointerEvent<HTMLDivElement>) => {
+  const handlePointerMove = (event) => {
     const stage = stageRef.current;
     if (!stage || window.matchMedia('(prefers-reduced-motion: reduce)').matches) return;
     const bounds = stage.getBoundingClientRect();
@@ -156,22 +151,39 @@ function OrbitVisual() {
   };
 
   return (
-    <div className="orbit-stage" ref={stageRef} onPointerMove={handlePointerMove} onPointerLeave={resetPointer} aria-label="Interactive connected orbit diagram">
-      <div className="orbit-system">
-        <div className="orbit-ring" />
-        <div className="orbit-line line-one" /><div className="orbit-line line-two" />
-        <div className="orbit-line line-three" /><div className="orbit-line line-four" />
-        <div className="orbit-node node-one" aria-label="Tanvi Tapase node" /><div className="orbit-node node-two" aria-label="Sharanya Mestry node" /><div className="orbit-node node-three" aria-label="Yash Kharat node" />
-        <div className="orbit-core" aria-label="4ETHR core" />
-        <span className="orbit-label label-one">BUILD / EXPLORE</span><span className="orbit-label label-two">DESIGN / TEST</span><span className="orbit-label label-three">THINK / SHIP</span>
-        <span className="orbit-signal signal-a" /><span className="orbit-signal signal-b" /><span className="orbit-signal signal-c" /><span className="orbit-signal signal-d" />
+    <div className="orbit-stage" ref={stageRef} onPointerMove={handlePointerMove} onPointerLeave={resetPointer} aria-label="Interactive connected 4ETHR team orbit">
+      <div className="orbit-stars" aria-hidden="true">
+        <i /><i /><i /><i /><i /><i /><i /><i />
       </div>
+      <div className="orbit-system">
+        <div className="orbit-track track-wide" />
+        <div className="orbit-track track-tall" />
+        <div className="orbit-track track-diagonal" />
+        <div className="orbit-line line-one" /><div className="orbit-line line-two" />
+        <div className="orbit-line line-three" />
+        <div className="orbit-core" aria-label="4ETHR core"><span className="core-shine" /><span className="core-word">4ETHR</span></div>
+        <div className="orbit-node node-one" aria-label="Tanvi Tapase node">
+          <div className="orbit-avatar avatar-tanvi"><span className="avatar-head" /><span className="avatar-body" /></div>
+          <span className="node-name">TANVI TAPASE</span><span className="node-role">IDEAS / DESIGN / CREATE</span>
+        </div>
+        <div className="orbit-node node-two" aria-label="Sharanya Mestry node">
+          <div className="orbit-avatar avatar-sharanya"><span className="avatar-head" /><span className="avatar-body" /></div>
+          <span className="node-name">SHARANYA MESTRY</span><span className="node-role">DEVELOP / INNOVATE / SOLVE</span>
+        </div>
+        <div className="orbit-node node-three" aria-label="Yash Kharat node">
+          <div className="orbit-avatar avatar-yash"><span className="avatar-head" /><span className="avatar-body" /></div>
+          <span className="node-name">YASH KHARAT</span><span className="node-role">BUILD / OPTIMIZE / GROW</span>
+        </div>
+        <span className="orbit-signal signal-a" /><span className="orbit-signal signal-b" /><span className="orbit-signal signal-c" /><span className="orbit-signal signal-d" /><span className="orbit-signal signal-e" />
+        <span className="orbit-rock rock-one" /><span className="orbit-rock rock-two" /><span className="orbit-rock rock-three" />
+      </div>
+      <div className="orbit-index" aria-label="Hero section index"><span className="active">01</span><span>02</span><span>03</span><span>04</span><span>05</span><span>06</span></div>
     </div>
   );
 }
 
-function Reveal({ children, className = '' }: { children: React.ReactNode; className?: string }) {
-  const ref = useRef<HTMLDivElement>(null);
+function Reveal({ children, className = '' }) {
+  const ref = useRef(null);
   useEffect(() => {
     const node = ref.current;
     if (!node) return;
@@ -187,7 +199,7 @@ function Reveal({ children, className = '' }: { children: React.ReactNode; class
   return <div ref={ref} className={`reveal ${className}`}>{children}</div>;
 }
 
-function SectionIntro({ number, title, accent, copy }: { number: string; title: string; accent?: string; copy: string }) {
+function SectionIntro({ number, title, accent, copy }) {
   return (
     <div className="section-heading">
       <div>
@@ -199,10 +211,12 @@ function SectionIntro({ number, title, accent, copy }: { number: string; title: 
   );
 }
 
-function ProjectVisual({ second = false }: { second?: boolean }) {
+function ProjectVisual({ second = false }) {
   return (
     <div className="project-visual" aria-hidden="true">
-      <div className="visual-grid" />
+      <div className="visual-atmosphere" />
+      <div className="project-orbit orbit-a" />
+      <div className="project-orbit orbit-b" />
       <div className="browser-frame">
         <div className="browser-top"><i /><i /><i /></div>
         <div className="browser-content">
@@ -221,7 +235,7 @@ function ContactForm() {
   const [email, setEmail] = useState('');
   const [message, setMessage] = useState('');
 
-  const submit = (event: React.FormEvent<HTMLFormElement>) => {
+  const submit = (event) => {
     event.preventDefault();
     setSent(true);
   };
@@ -252,8 +266,8 @@ function ContactForm() {
 }
 
 function Home() {
-  const [theme, setTheme] = useState<'dark' | 'light'>(() => (localStorage.getItem('4ethr-theme') as 'dark' | 'light') || 'dark');
-  const [selectedProject, setSelectedProject] = useState<string | null>(null);
+  const [theme, setTheme] = useState(() => (localStorage.getItem('4ethr-theme') === 'light' ? 'light' : 'dark'));
+  const [selectedProject, setSelectedProject] = useState(null);
 
   useEffect(() => {
     document.documentElement.classList.toggle('dark', theme === 'dark');
@@ -264,8 +278,7 @@ function Home() {
     const updateProgress = () => {
       const max = document.documentElement.scrollHeight - window.innerHeight;
       const percent = max > 0 ? (window.scrollY / max) * 100 : 0;
-      document.documentElement.style.setProperty('--scroll-progress', `${percent}%`);
-      const progress = document.querySelector<HTMLElement>('.page-progress');
+      const progress = document.querySelector('.page-progress');
       if (progress) progress.style.width = `${percent}%`;
     };
     updateProgress();
@@ -275,7 +288,7 @@ function Home() {
 
   useEffect(() => {
     if (!selectedProject) return;
-    const closeWithEscape = (event: KeyboardEvent) => {
+    const closeWithEscape = (event) => {
       if (event.key === 'Escape') setSelectedProject(null);
     };
     document.addEventListener('keydown', closeWithEscape);
@@ -297,11 +310,15 @@ function Home() {
         <main>
           <section id="home" className="hero" data-testid="section-home">
             <Reveal className="hero-copy">
-              <div className="hero-kicker"><span className="status-dot" /> 3 minds / 1 shared orbit</div>
-              <h1 className="hero-title"><span className="outline">W E</span><br /><span className="accent">4</span>ETHR</h1>
-              <p className="hero-lede">A three-person hackathon team turning open questions into clear, useful digital experiences.</p>
-              <a href="#projects" className="hero-cta" data-testid="link-hero-projects">Explore our work <span className="cta-arrow"><ArrowRight size={14} /></span></a>
-              <div className="hero-note"><span>Team portfolio</span><span>Frontend / UI / Ideas</span></div>
+               <div className="hero-meta-row">
+                 <div className="hero-count"><span>// 01</span><small>TEAM PORTFOLIO</small></div>
+                 <div className="hero-sidecopy">THREE<br />PERSPECTIVES<br />ONE TEAM</div>
+               </div>
+               <h1 className="hero-title"><span className="outline">W E&nbsp; A R E</span><strong><span className="accent">4</span>ETHR</strong></h1>
+               <p className="hero-lede hero-tagline">THREE MINDS.<br />ONE DIGITAL UNIVERSE.</p>
+               <div className="hero-names">TANVI TAPASE <b>×</b> SHARANYA MESTRY <b>×</b> YASH KHARAT</div>
+               <a href="#projects" className="hero-cta" data-testid="link-hero-projects">Explore our work <span className="cta-arrow"><ArrowRight size={14} /></span></a>
+               <div className="hero-bottom-meta"><div className="scroll-cue"><span>SCROLL</span><b>↓</b></div><div className="hero-triad">// BUILD<br />// CREATE<br />// EXPLORE</div></div>
             </Reveal>
             <Reveal className="delay-2"><OrbitVisual /></Reveal>
           </section>
@@ -389,17 +406,4 @@ function Home() {
   );
 }
 
-function App() {
-  return (
-    <QueryClientProvider client={queryClient}>
-      <TooltipProvider>
-        <ErrorBoundary>
-          <Home />
-        </ErrorBoundary>
-        <Toaster />
-      </TooltipProvider>
-    </QueryClientProvider>
-  );
-}
-
-export default App;
+export default Home;
